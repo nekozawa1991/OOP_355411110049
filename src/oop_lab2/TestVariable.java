@@ -53,5 +53,5 @@ public class TestVariable {
         System.out.println(b);
         b = false;
         System.out.println(b);
-    }
+    } //main
 }
