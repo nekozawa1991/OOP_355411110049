@@ -23,5 +23,5 @@ public class TestInput {
         System.out.print("Where are you come from? : ");
         String city = scanner.nextLine();
         System.out.println("You come form "+city);
-    }
+    } //main
 }
