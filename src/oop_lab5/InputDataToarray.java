@@ -16,8 +16,8 @@ public class InputDataToarray {
         for (int i=0;i<num.length;i++){
             total += num[i];
         }
-        System.out.println("\nThe summation of " + "value in array is: "+total);
-        System.out.println("The avrage value " + "in array is: "+total/MAX);
+        System.out.println("The summation of " + "value in array is: "+total);
+        System.out.println("\nThe avrage value " + "in array is: "+total/MAX);
     }
 
     private static void ShowData(int[] num) {
